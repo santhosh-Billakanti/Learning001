@@ -7,3 +7,4 @@ if ($null -eq $service) {
     Write-Output "Service '$serviceName' not found."
 } else {
     Write-Output "Service '$serviceName'
+    d
